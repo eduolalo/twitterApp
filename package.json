@@ -1,0 +1,10 @@
+{
+    "name": "tweeterApp",
+    "version": "0.0.1",
+    "main": "app.js",
+    "author": "Christian Rodriguez",
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest"
+    }
+}
